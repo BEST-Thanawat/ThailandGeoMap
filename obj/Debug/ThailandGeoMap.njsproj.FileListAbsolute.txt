@@ -1,0 +1,3 @@
+C:\Users\thana\source\repos\ThailandGeoMap\ThailandGeoMap\obj\Debug\ThailandGeoMap.njsprojAssemblyReference.cache
+C:\Users\thana\source\repos\ThailandGeoMap\ThailandGeoMap\obj\Debug\ThailandGeoMap.njsproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\ThailandGeoMap\ThailandGeoMap\bin\Microsoft.NodejsTools.WebRole.dll
