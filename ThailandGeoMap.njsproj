@@ -28,6 +28,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="images\th-geo-map.jpg" />
     <Content Include="public\js\chroma.min.js">
       <SubType>Code</SubType>
     </Content>
@@ -40,6 +41,7 @@
     <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="images\" />
     <Folder Include="public\" />
     <Folder Include="public\json\" />
     <Folder Include="public\js\" />
